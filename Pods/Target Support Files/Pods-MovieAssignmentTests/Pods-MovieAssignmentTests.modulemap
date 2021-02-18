@@ -1,0 +1,6 @@
+framework module Pods_MovieAssignmentTests {
+  umbrella header "Pods-MovieAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
